@@ -1,0 +1,93 @@
+brewer Behmor
+ikettle Smarter
+microwave GE
+miele-dishwasher Miele
+samsung-fridge Samsung smartthing
+xiaomi-induction Xiaomi
+xiaomi-ricecooker Xiaomi
+amcrest-cam-wired Amcrest
+arlo-q-cam Alro
+blink-doorbell Blink
+blink-security-hub Blink
+dlink-camera Dlink d-link
+icsee-doorbell Icsee
+lefun-cam-wired Lefun
+microseven-camera Microseven
+nest-camera Nest Google
+nest-doorbell Nest Google
+ring-camera Ring Amazon AWS Alexa Echo
+ring-doorbell Ring Amazon AWS Alexa Echo
+ring-doorbell-wired Ring Amazon AWS Alexa Echo
+ring-indoor-cam Ring Amazon AWS Alexa Echo
+tplink-camera tplink tp-link tapo
+tuya-camera Tuya
+wyze-cam wyze
+yi-camera yi
+nintendo-switch nintendo
+aeotec-hub Samsung smartthing
+aqara-hub Aqara Xiaomi
+aqara-hub-m2-wifi Aqara Xiaomi
+eufy-hub Eufy
+ikea-hub Ikea
+sengled-hub sengled
+smartthings-hub Samsung smartthing
+switchbot-hub switchbot
+t-philips-hub philips hue
+switchbot-hub2 switchbot
+3r-zb-matter-bridge 3r
+smartlife-matter-hub smartlife
+blueair-purifier Blueair
+keyco-air keyco
+thermopro-sensor thermopro tuya
+withings-bpm Withings
+withings-sleep Withings
+withings-thermo Withings
+amazon-plug Amazon AWS Alexa Echo
+consciot-matter-bulb1 Consciot
+gosund-bulb1 Gosund Tuya
+govee-led1 Govee
+govee-matter-strip Govee
+meross-dooropener Meross
+meross-matter-plug1 Meross
+magichome-strip magichome Magic Tuya
+meross-plug1 Meross
+nest-tstat Nest Google gstatic nest
+orein-matter-bulb2 Orein
+ring-chime1 Ring Amazon AWS Alexa Echo
+sengled-bulb Sengled
+smartlife-remote smartlife
+t-wemo-plug wemo
+tplink-bulb tplink tp-link tapo
+tplink-plug tplink tp-link tapo
+tplink-tapo-plug tplink tp-link tapo
+wiz-bulb wiz
+yeelight-bulb yeelight
+tuya-matter-plug tuya
+tapo-matter-bulb tapo tplink tp-link
+linkind-matter-plug linkind
+leviton-matter-plug leviton
+august-lock august
+cync-matter-plug1 cync
+echodot Amazon AWS Alexa Echo
+echodot3a Amazon AWS Alexa Echo
+echodot4a Amazon AWS Alexa Echo
+echodot5a Amazon AWS Alexa Echo
+echoflex1 Amazon AWS Alexa Echo
+echoplus Amazon AWS Alexa Echo
+echopop Amazon AWS Alexa Echo
+echoshow5 Amazon AWS Alexa Echo
+echoshow8 Amazon AWS Alexa Echo
+echospot Amazon AWS Alexa Echo
+facebook-portal-mini facebook meta
+google-home-mini Google gstatic nest
+google-nest-mini1 Google gstatic nest
+homepod-mini2 Apple homepod
+nest-hub Nest Google gstatic nest
+nest-hub-max Nest Google gstatic nest
+appletv Apple homepod Netflix
+chromecast-googletv Google gstatic nest Netflix
+firetv Amazon AWS Alexa Echo Netflix
+roku-tv Roku Netflix
+samsungtv65-wifi Samsung smartthing Netflix
+tivostream Google Tivo gstatic nest Netflix
+viziotv Vizio

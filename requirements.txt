@@ -1,0 +1,10 @@
+ipwhois==1.3.0
+matplotlib==3.9.2
+numpy==2.1.3
+pandas==2.2.3
+pyshark==0.6
+ratelimiter==1.2.0.post0
+scapy==2.6.0
+whois==1.20240129.2
+whoisdomain==1.20240129.1
+xmltodict==0.14.2

@@ -1,0 +1,94 @@
+Device,Category,Manufacturer,Domain number,AAAA Response,IPv6-v4 diff
+brewer,Appliance,Behmor,1,0,0
+ikettle,Appliance,Smarter,1,0,0
+microwave,Appliance,GE,2,2,0
+miele-dishwasher,Appliance,Miele,2,0,0
+samsung-fridge,Appliance,Samsung,66,14,0
+xiaomi-induction,Appliance,Mi,2,0,0
+xiaomi-ricecooker,Appliance,Mi,1,0,0
+amcrest-cam-wired,Camera,Amcrest,7,0,0
+arlo-q-cam,Camera,Arlo,15,4,0
+blink-doorbell,Camera,Blink,4,0,0
+blink-security-hub,Camera,Blink,6,1,0
+dlink-camera,Camera,D-Link,5,0,0
+icsee-doorbell,Camera,iCsee,10,0,0
+lefun-cam-wired,Camera,Lefun,0,0,0
+microseven-camera,Camera,Microsseven,2,0,0
+nest-camera,Camera,Google,21,12,0
+nest-doorbell,Camera,Google,20,10,0
+ring-camera,Camera,Amazon,8,2,0
+ring-doorbell,Camera,Amazon,6,1,0
+ring-doorbell-wired,Camera,Amazon,9,3,0
+ring-indoor-cam,Camera,Amazon,10,4,0
+tplink-camera,Camera,TP-Link,10,1,0
+tuya-camera,Camera,Tuya,3,3,0
+wyze-cam,Camera,Wyze,19,3,0
+yi-camera,Camera,Yi,2,0,0
+nintendo-switch,TV/Ent.,Nintendo,11,0,0
+aeotec-hub,Gateway,Samsung,27,3,0
+aqara-hub,Gateway,Aqara,1,0,0
+aqara-hub-m2-wifi,Gateway,Aqara,3,0,0
+eufy-hub,Gateway,Eufy,6,1,0
+ikea-hub,Gateway,IKEA,5,1,0
+sengled-hub,Gateway,Sengled,4,3,0
+smartthings-hub,Gateway,Samsung,8,0,0
+switchbot-hub,Gateway,Switchbot,1,1,0
+t-philips-hub,Gateway,Hue,15,4,0
+switchbot-hub2,Gateway,Switchbot,3,2,0
+3r-zb-matter-bridge,Gateway,3R,0,0,0
+smartlife-matter-hub,Gateway,Tuya,27,2,0
+blueair-purifier,Health,Blueair,2,1,0
+keyco-air,Health,Keyco,1,0,0
+thermopro-sensor,Health,Tuya,2,2,0
+withings-bpm,Health,Withings,1,1,0
+withings-sleep,Health,Withings,1,1,0
+withings-thermo,Health,Withings,1,1,0
+amazon-plug,Home Automation,Amazon,6,3,0
+consciot-matter-bulb1,Home Automation,Aidot,3,0,0
+gosund-bulb1,Home Automation,Tuya,2,2,0
+govee-led1,Home Automation,Govee,3,1,0
+govee-matter-strip,Home Automation,Govee,5,2,0
+meross-dooropener,Home Automation,Meross,4,1,0
+meross-matter-plug1,Home Automation,Meross,5,0,0
+magichome-strip,Home Automation,MagicHome,1,0,0
+meross-plug1,Home Automation,Meross,12,3,0
+nest-tstat,Home Automation,Google,22,2,0
+orein-matter-bulb2,Home Automation,Aidot,2,0,0
+ring-chime1,Home Automation,Amazon,5,2,0
+sengled-bulb,Home Automation,Sengled,1,1,0
+smartlife-remote,Home Automation,Tuya,2,2,0
+t-wemo-plug,Home Automation,WeMo,2,0,0
+tplink-bulb,Home Automation,TP-Link,5,1,0
+tplink-plug,Home Automation,TP-Link,7,1,0
+tplink-tapo-plug,Home Automation,TP-Link,3,0,0
+wiz-bulb,Home Automation,Wiz,3,1,0
+yeelight-bulb,Home Automation,Yeelight,2,0,0
+tuya-matter-plug,Home Automation,Tuya,0,0,0
+tapo-matter-bulb,Home Automation,TP-Link,4,0,0
+linkind-matter-plug,Home Automation,Aidot,2,0,0
+leviton-matter-plug,Home Automation,Leviton,2,1,0
+august-lock,Home Automation,August,3,0,0
+cync-matter-plug1,Home Automation,GE,2,0,0
+echodot,Speaker,Amazon,24,6,0
+echodot3a,Speaker,Amazon,25,5,0
+echodot4a,Speaker,Amazon,30,7,0
+echodot5a,Speaker,Amazon,26,7,0
+echoflex1,Speaker,Amazon,33,6,0
+echoplus,Speaker,Amazon,32,9,0
+echopop,Speaker,Amazon,27,8,0
+echoshow5,Speaker,Amazon,69,24,0
+echoshow8,Speaker,Amazon,68,22,0
+echospot,Speaker,Amazon,39,11,0
+facebook-portal-mini,Speaker,Meta,44,39,0
+google-home-mini,Speaker,Google,30,24,0
+google-nest-mini1,Speaker,Google,30,26,0
+homepod-mini2,Speaker,Apple,205,80,-1
+nest-hub,Speaker,Google,71,49,0
+nest-hub-max,Speaker,Google,102,57,0
+appletv,TV/Ent.,Apple,165,106,0
+chromecast-googletv,TV/Ent.,Google,147,135,0
+firetv,TV/Ent.,Amazon,99,37,0
+roku-tv,TV/Ent.,Roku,44,23,0
+samsungtv65-wifi,TV/Ent.,Samsung,99,35,0
+tivostream,TV/Ent.,Google,139,97,1
+viziotv,TV/Ent.,Vizio,65,32,0

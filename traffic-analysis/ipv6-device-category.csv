@@ -1,0 +1,94 @@
+CATEGORY,NAME,ADDRESS,MANUFACTURER,PLATFORM,OS
+Appliance,brewer,20:f8:5e:cc:18:1f,Behmor,,
+Appliance,ikettle,c:2a:69:e:91:16,Smarter,,
+Appliance,microwave,d8:28:c9:10:b5:60,GE,,
+Appliance,miele-dishwasher,0:1d:63:74:8b:95,Miele,,
+Appliance,samsung-fridge,40:ca:63:c6:4c:3a,Samsung,,Tizen
+Appliance,xiaomi-induction,40:31:3c:df:7b:b7,Mi,,
+Appliance,xiaomi-ricecooker,7c:49:eb:35:7a:49,Mi,,
+Camera,amcrest-cam-wired,9c:8e:cd:a:33:1b,Amcrest,,
+Camera,arlo-q-cam,8:2:8e:2e:ac:86,Arlo,,
+Camera,blink-doorbell,a0:d2:b1:e9:d2:cd,Blink,,
+Camera,blink-security-hub,0:3:7f:4f:c6:b5,Blink,,
+Camera,dlink-camera,b0:c5:54:3f:e7:ad,D-Link,,
+Camera,icsee-doorbell,0:12:17:e9:e9:a6,iCsee,,
+Camera,lefun-cam-wired,ae:ca:6:8:d3:e6,Lefun,,
+Camera,microseven-camera,0:fc:5c:e0:81:86,Microseven,,
+Camera,nest-camera,1c:53:f9:3d:7:2b,Google,,
+Camera,nest-doorbell,d8:eb:46:be:90:79,Google,,
+Camera,ring-camera,34:3e:a4:6c:c8:8b,Ring,Ring,
+Camera,ring-doorbell,98:84:e3:e4:35:bd,Ring,Ring,
+Camera,ring-doorbell-wired,9c:76:13:3d:3d:f2,Ring,Ring,
+Camera,ring-indoor-cam,9c:76:13:6e:22:24,Ring,Ring,
+Camera,tplink-camera,48:22:54:d6:57:cc,TP-Link,,
+Camera,tuya-camera,44:1:bb:fe:9c:c3,Tuya,Tuya,
+Camera,wyze-cam,7c:78:b2:6d:45:17,Wyze,,
+Camera,yi-camera,b0:d5:9d:b9:f0:b4,Yi,,
+TV/Ent.,nintendo-switch,5c:c:e6:b1:2:26,Nintendo,,
+Gateway,aeotec-hub,68:3a:48:2f:6b:40,Samsung,,
+Gateway,aqara-hub,54:ef:44:29:5e:eb,Aqara,,
+Gateway,aqara-hub-m2-wifi,54:ef:44:4a:f8:6,Aqara,,
+Gateway,eufy-hub,4:17:b6:76:38:9d,Eufy,,
+Gateway,ikea-hub,58:d5:a:db:b2:dd,IKEA,,
+Gateway,sengled-hub,b0:ce:18:27:9f:e4,Sengled,,
+Gateway,smartthings-hub,24:fd:5b:4:1b:75,Samsung,,
+Gateway,switchbot-hub,ec:fa:bc:2e:81:f7,Switchbot,,
+Gateway,t-philips-hub,0:17:88:68:5f:61,Hue,,
+Gateway,switchbot-hub2,84:fc:e6:32:e0:30,Switchbot,,
+Gateway,3r-zb-matter-bridge,b4:e:cf:3c:d7:67,3R,,
+Gateway,smartlife-matter-hub,d8:d6:68:2c:cb:66,Tuya,Tuya,
+Health,blueair-purifier,40:f5:20:55:c1:c0,Blueair,,
+Health,keyco-air,5c:86:c1:14:c3:1a,Keyco,,
+Health,thermopro-sensor,8c:aa:b5:21:43:34,Tuya,Tuya,
+Health,withings-bpm,0:24:e4:b8:84:f0,Withings,,
+Health,withings-sleep,0:24:e4:9a:6d:d4,Withings,,
+Health,withings-thermo,0:24:e4:ad:ce:5e,Withings,,
+Home Automation,amazon-plug,ec:8a:c4:63:d8:e3,Amazon,,
+Home Automation,consciot-matter-bulb1,84:fc:e6:e1:89:ec,Aidot,,
+Home Automation,gosund-bulb1,40:f5:20:f4:4f:9c,Tuya,Tuya,
+Home Automation,govee-led1,7c:a6:b0:f:94:e5,Govee,,
+Home Automation,govee-matter-strip,d4:ad:fc:ee:f6:cc,Govee,,
+Home Automation,meross-dooropener,34:29:8f:1e:41:25,Meross,,
+Home Automation,meross-matter-plug1,48:e1:e9:b6:ae:25,Meross,,
+Home Automation,magichome-strip,60:1:94:95:fb:ae,MagicHome,,
+Home Automation,meross-plug1,48:e1:e9:97:12:b7,Meross,,
+Home Automation,nest-tstat,18:b4:30:c8:d8:28,Google,,
+Home Automation,orein-matter-bulb2,d4:f9:8d:36:14:58,Aidot,,
+Home Automation,ring-chime1,9c:76:13:22:f:ee,Amazon,Ring,
+Home Automation,sengled-bulb,34:ab:95:37:29:43,Sengled,,
+Home Automation,smartlife-remote,bc:dd:c2:38:d:32,Tuya,Tuya,
+Home Automation,t-wemo-plug,14:91:82:b4:4b:5f,WeMo,,
+Home Automation,tplink-bulb,50:c7:bf:a0:f3:76,TP-Link,,
+Home Automation,tplink-plug,50:c7:bf:5a:2e:a0,TP-Link,,
+Home Automation,tplink-tapo-plug,30:de:4b:f6:7:78,TP-Link,,
+Home Automation,wiz-bulb,d8:a0:11:17:ff:32,Wiz,,
+Home Automation,yeelight-bulb,4:cf:8c:a9:a7:59,Yeelight,,
+Home Automation,tuya-matter-plug,34:98:7a:27:12:90,Tuya,Tuya,
+Home Automation,tapo-matter-bulb,5c:e9:31:58:6e:c1,TP-Link,,
+Home Automation,linkind-matter-plug,54:32:4:ad:35:a0,Aidot,,
+Home Automation,leviton-matter-plug,0:7:a6:37:da:b9,Leviton,,
+Home Automation,august-lock,78:9c:85:35:20:21,August,,
+Home Automation,cync-matter-plug1,34:13:43:7e:7:f7,GE,,
+Speaker,echodot,18:74:2e:41:4d:35,Amazon,Alexa,FireOS
+Speaker,echodot3a,68:db:f5:90:19:64,Amazon,Alexa,FireOS
+Speaker,echodot4a,34:af:b3:34:3d:50,Amazon,Alexa,FireOS
+Speaker,echodot5a,98:22:6e:8e:66:e2,Amazon,Alexa,FireOS
+Speaker,echoflex1,40:a2:db:d6:90:5,Amazon,Alexa,FireOS
+Speaker,echoplus,fc:a1:83:38:e0:2d,Amazon,Alexa,FireOS
+Speaker,echopop,b0:cf:cb:a4:8:df,Amazon,Alexa,FireOS
+Speaker,echoshow5,48:78:5e:27:7d:8e,Amazon,Alexa,FireOS
+Speaker,echoshow8,e0:f7:28:16:a6:19,Amazon,Alexa,FireOS
+Speaker,echospot,0:71:47:c0:91:93,Amazon,Alexa,FireOS
+Speaker,facebook-portal-mini,a4:e:2b:35:11:59,Meta,,Android
+Speaker,google-home-mini,20:df:b9:5f:41:7e,Google,Google,Android
+Speaker,google-nest-mini1,f8:f:f9:39:a0:5,Google,Google,Android
+Speaker,homepod-mini2,e0:2b:96:8f:37:8b,Apple,Apple,iOSTVOS
+Speaker,nest-hub,d8:eb:46:71:c7:e,Google,Google,Fuchsia
+Speaker,nest-hub-max,ac:67:84:84:71:57,Google,Google,Fuchsia
+TV/Ent.,appletv,8:66:98:a2:21:9e,Apple,Apple,iOSTVOS
+TV/Ent.,chromecast-googletv,ac:67:84:f8:0:6f,Google,Google,Android
+TV/Ent.,firetv,6c:56:97:35:39:f4,Amazon,Alexa,FireOS
+TV/Ent.,roku-tv,88:de:a9:8:3:b9,Roku,Roku,RokuOS
+TV/Ent.,samsungtv65-wifi,1c:af:4a:8b:f9:e8,Samsung,Samsung,Tizen
+TV/Ent.,tivostream,0:11:d9:b0:1:fc,Tivo,Google,Android
+TV/Ent.,viziotv,e8:38:a0:33:f9:6e,Vizio,Vizio,Smartcast
